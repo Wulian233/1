@@ -1,0 +1,10 @@
+[{
+  "modid": "vmctmodmce",
+  "name": "VM Chinese Translate group Mod Eternal MC",
+  "description": "VM汉化组用于检测更新汉化补丁版本的模组，如果汉化是旧版，就会在聊天栏提醒更新。",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": "Wulian233",
+  "credits": "All members of VM Chinese translate group.",
+  "logoFile": "logo.png"
+}]
